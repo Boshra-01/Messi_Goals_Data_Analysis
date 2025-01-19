@@ -10,12 +10,12 @@ This project analyzes the goal-scoring patterns of Lionel Messi using Python. Th
 - Customizable visualizations with dynamic color palettes and flexible chart options.  
 
 ## **Required Libraries** 
-from google.colab import files
-from google.colab.data_table import DataTable
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from matplotlib import pyplot as plt
-from IPython.display import Image
-import itertools
+- from google.colab import files
+- from google.colab.data_table import DataTable
+- import pandas as pd
+- import numpy as np
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+- from matplotlib import pyplot as plt
+- from IPython.display import Image
+- import itertools
